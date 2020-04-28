@@ -18,7 +18,7 @@ describe('AppComponent', () => {
 
   it(`should have as title 'form-reactive'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
-    const app = fixture.componentInstance;
+                         const app = fixture.componentInstance;
     expect(app.title).toEqual('form-reactive');
   });
 

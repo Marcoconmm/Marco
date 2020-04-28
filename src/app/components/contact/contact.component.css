@@ -23,9 +23,9 @@
     transition: all 0,30% ease-in-outs;
     outline: none;
     box-sizing: border-box;
-    width: 100%;
+                  width: 100%;
     background: #fff ;
-    margin-bottom: 4%;
+                   margin-bottom: 4%;
     border: 1px solid #ccc;
     padding: 3%;
     color:#555;
